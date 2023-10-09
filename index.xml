@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PRAJUAL09</title>
+    <title>The Main Heading</title>
     <link>https://prajual09.github.io/myblog.github.io/</link>
-    <description>Recent content on PRAJUAL09</description>
+    <description>Recent content on The Main Heading</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://prajual09.github.io/myblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://prajual09.github.io/myblog.github.io/</guid>
-      <description>this is the content ABCD</description>
+      <description>Foobar Foobar is a Python library for dealing with word pluralization.
+Installation Use the package manager pip to install foobar.
+pip install foobar Usage import foobar # returns &amp;#39;words&amp;#39; foobar.pluralize(&amp;#39;word&amp;#39;) # returns &amp;#39;geese&amp;#39; foobar.pluralize(&amp;#39;goose&amp;#39;) # returns &amp;#39;phenomenon&amp;#39; foobar.singularize(&amp;#39;phenomena&amp;#39;) Contributing Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.</description>
     </item>
     
   </channel>
